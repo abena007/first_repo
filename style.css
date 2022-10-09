@@ -1,0 +1,13 @@
+body {font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+nav {
+    color: rgb(255, 255, 255);
+}
+ul {background-color: brown;padding: 22px;}
+li {padding:10px; display: inline;}
+#gmc{background-color: ;}
+#home {background-color:cadetblue; text-align: center;}
+#Work {background-color: rgb(250, 190, 101);margin: 20px ;}
+table{margin-left: 25%;}
+table,tr,th,td{border:solid 2px;color: black;padding: 10px;}
+.contact{background-color: brown;color: white;padding: 20px}
+body{background-color:cornsilk;}
